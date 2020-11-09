@@ -1,7 +1,9 @@
 import React from 'react'
 
+import Header from "./components/Header";
+
 const App = () => (
-  <h1>Ecommerce WebSite</h1>
+  <Header />
 );
 
 export default App
